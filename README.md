@@ -62,31 +62,8 @@ The paper includes:
 - Related work and comparative studies
 - Future research directions
 
-## Contributors
-
-**Cairo University - Systems and Biomedical Engineering Department**
-
-- **Hager Ehab** - Data preprocessing, lung segmentation, paper writing
-- **Shimaa Kamel** - PCA implementation, baseline classifiers
-- **Ahmed Rafaat** - Memory optimization, advanced ensembles
-- **Muhammed Salah** - Hyperparameter tuning, final model optimization
 
 ## Resources
 
 - 📊 [Kaggle Notebook](https://www.kaggle.com/code/muhamedsalah1000/svm-notebook)
-- 📄 [Research Paper](MLpaper.pdf)
-
-## Citation
-
-```bibtex
-@article{rafaat2025covid19detection,
-  title={Automated COVID-19 Detection from Chest X-rays Using Machine Learning Pipelines},
-  author={Rafaat, Ahmed and Salah, Muhammed and Kamel, Shimaa and Ehab, Hager},
-  journal={Systems and Biomedical Engineering, Cairo University},
-  year={2025}
-}
-```
-
----
-
-**Note:** This is a screening tool designed to assist healthcare professionals, not replace professional medical diagnosis.
+- 📄 [Research Paper]([MLpaper.pdf](https://github.com/Shaimaakamel474/Automated-COVID-19-Detection-from-Chest-X-rays-Using-Machine-Learning-Pipelines-/blob/main/MLpaper.pdf))
